@@ -1,0 +1,16 @@
+{
+    "Produtos": [
+        {
+            "id": 1,
+            "nome": "Bolo de Chocolate",
+            "preco": 8,
+            "image": "https://www.freepik.com/free-photo/sweet-chocolate-cake-with-cherry_6227195.htm#query=chocolate%20cake&position=1&from_view=search&track=ais"
+        },
+        {
+            "id": 2,
+            "nome": "Café",
+            "preco": 5,
+            "image": "https://www.freepik.com/free-ai-image/delicious-coffee-cup-studio_60220405.htm#query=coffee&position=5&from_view=search&track=sph"
+        }
+    ]
+}
